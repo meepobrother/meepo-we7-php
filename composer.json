@@ -1,8 +1,8 @@
 {
     "name": "meepo/we7",
     "description": "meepo class for we7",
-    "version": "1.0",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "15138730370",
@@ -15,6 +15,5 @@
             "Meepo\\Test\\": "src/test"
         }
     },
-    "prefer-stable": false,
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
