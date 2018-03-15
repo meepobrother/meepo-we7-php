@@ -1,19 +1,30 @@
 {
     "name": "meepo/we7",
-    "description": "meepo class for we7",
+    "description": "meepo for we7 libraries",
+    "keywords": [
+        "psr",
+        "psr-3",
+        "log"
+    ],
+    "homepage": "https://github.com/meepobrother/meepo-we7-php",
     "license": "MIT",
-    "type": "library",
     "authors": [
         {
-            "name": "15138730370",
-            "email": "1037483576@qq.com"
+            "name": "1037483576@qq.com",
+            "homepage": "https://meepo.com.cn/"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.3.0"
+    },
     "autoload": {
         "psr-4": {
-            "Meepo\\Test\\": "src/test"
+            "Meepo\\Test\\": "src/test/"
         }
     },
-    "minimum-stability": "dev"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
