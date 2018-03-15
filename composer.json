@@ -1,6 +1,7 @@
 {
     "name": "meepo/we7-php",
     "description": "meepo class for we7",
+    "version": "1.0",
     "authors": [
         {
             "name": "15138730370",
