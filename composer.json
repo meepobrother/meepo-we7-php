@@ -13,5 +13,6 @@
         "psr-4": {
             "Meepo\\Test\\": "src/test"
         }
-    }
+    },
+    "prefer-stable": true
 }
