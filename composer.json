@@ -1,5 +1,5 @@
 {
-    "name": "meepo/we7-php",
+    "name": "meepo/we7",
     "description": "meepo class for we7",
     "version": "1.0",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Meepo\\Test": "src/test"
+            "Meepo\\Test\\": "src/test"
         }
     },
     "prefer-stable": false,
