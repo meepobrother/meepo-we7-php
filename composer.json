@@ -1,0 +1,16 @@
+{
+    "name": "meepo/we7-php",
+    "description": "meepo class for we7",
+    "authors": [
+        {
+            "name": "15138730370",
+            "email": "1037483576@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Meepo\\Test": "src/test"
+        }
+    }
+}
