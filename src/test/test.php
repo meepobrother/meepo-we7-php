@@ -5,6 +5,6 @@ class Test
 {
     public function echo()
     {
-        echo "i am a meepo test";
+        echo "i am a meepo test 1";
     }
 }
