@@ -14,5 +14,5 @@
             "Meepo\\Test\\": "src/test"
         }
     },
-    "prefer-stable": true
+    "prefer-stable": false
 }
